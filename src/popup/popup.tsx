@@ -1,4 +1,4 @@
-import React, { useState, useEffect, use } from "react";
+import React, { useState, useEffect } from "react";
 import WeatherCard from "../components/WeatherCard";
 import { Box, Grid } from "@material-ui/core";
 import { Add as AddIcon } from "@material-ui/icons";
